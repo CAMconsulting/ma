@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Morales Asencio Abogados</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://camconsulting.github.io/ma/</link>
+    <atom:link href="http://camconsulting.github.io/ma/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 31 Jul 2016 00:24:37 +0200</pubDate>
+    <lastBuildDate>Sun, 31 Jul 2016 00:24:37 +0200</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 25 Jul 2016 08:06:47 +0200</pubDate>
+        <link>http://camconsulting.github.io/ma/jekyll/update/2016/07/25/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://camconsulting.github.io/ma/jekyll/update/2016/07/25/welcome-to-jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Renovación de tarjeta de residencia</title>
+        <description>&lt;p&gt;
+  La residencia temporal es la situación por la que un ciudadano extranjero está autorizado a residir en España de manera no permanente, por un periodo superior a los 3 meses e inferior a 5 años.
+
+Un empleador o empresario podrá solicitar la contratación de un trabajador extranjero siempre que concurran algunas de las circunstancias siguientes:
+
+&lt;ol&gt;
+  &lt;li&gt;Que el trabajador extranjero se encuentre residiendo fuera de España, o&lt;/li&gt;
+  &lt;li&gt;Que resida en España y pueda modificar su estatus migratorio, o&lt;/li&gt;
+  &lt;li&gt;Que se encuentre en España por circunstancias excepcionales&lt;/li&gt;
+  &lt;li&gt;Entre otros.&lt;/li&gt;
+&lt;/ol&gt;
+
+ ¿Qué debo hacer si se vence mi autorización de residencia temporal?
+
+Un ciudadano extranjero podrá solicitar la renovación de su residencia temporal siempre que haya residido o trabajando en España.
+
+Esta solicitud deberá presentarse durante los 60 días naturales previos a la fecha de expiración de la autorización, o también, dentro de los 90 días naturales posteriores a la fecha en que hubiera finalizado la vigencia de la autorización de residencia.
+
+Una vez aprobada la renovación de residencia, el trabajador deberá solicitar personalmente la Tarjeta de Identidad de Extranjero (TIE) en la oficina de extranjería o comisaría de policía de la provincia donde se haya tramitado la autorización.
+
+&lt;h2&gt;¿Qué documentos debo aportar para tramitar la renovación de residencia temporal?&lt;/h2&gt;
+
+ De manera general los documentos que deberás aportar en la renovación de residencia temporal son los siguientes:
+
+&lt;ul&gt;
+  &lt;li&gt;Impreso de solicitud en modelo oficial (EX–03) por duplicado&lt;/li&gt;
+  &lt;li&gt;Copia completa del pasaporte o título de viaje en vigor.&lt;/li&gt;
+  &lt;li&gt;Documentación según el supuesto por el que se solicita la renovación&lt;/li&gt;
+  &lt;li&gt;Entre otros.&lt;/li&gt;
+&lt;/ul&gt;
+En caso de que continúes con la relación laboral que dio origen a la concesión de la autorización que se va a renovar, no es preciso presentar ningún otro documento,  pero si dispones de un nuevo contrato de trabajo deberás presentar la fotocopia del nuevo contrato de trabajo.
+
+Gracias por leer nuestro artículo, recuerda que cada mes en Morales Asencio organizamos un evento diferente para ayudarte a resolver dudas sobre inmigración, gestión de visados, gestión empresarial local e internacional. &lt;a href=&quot;http://www.moralesasencio.com/site/asesoria-legal-contacto/&quot;&gt;Suscríbete&lt;/a&gt; en nuestra web para recibir todas nuestras actualizaciones.
+&lt;/p&gt;
+</description>
+        <pubDate>Mon, 25 Jul 2016 08:06:47 +0200</pubDate>
+        <link>http://camconsulting.github.io/ma/noticias/2016/07/25/tarjeta-de-residencia.html</link>
+        <guid isPermaLink="true">http://camconsulting.github.io/ma/noticias/2016/07/25/tarjeta-de-residencia.html</guid>
+        
+        
+        <category>noticias</category>
+        
+      </item>
+    
+  </channel>
+</rss>
