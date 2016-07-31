@@ -4,10 +4,10 @@
     <title>Morales Asencio Abogados</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>https://camconsulting.github.io/ma//ma/</link>
-    <atom:link href="https://camconsulting.github.io/ma//ma/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 31 Jul 2016 23:00:42 +0200</pubDate>
-    <lastBuildDate>Sun, 31 Jul 2016 23:00:42 +0200</lastBuildDate>
+    <link>https://camconsulting.github.io/ma/</link>
+    <atom:link href="https://camconsulting.github.io/ma/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 31 Jul 2016 23:50:18 +0200</pubDate>
+    <lastBuildDate>Sun, 31 Jul 2016 23:50:18 +0200</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Mon, 25 Jul 2016 08:06:47 +0200</pubDate>
-        <link>https://camconsulting.github.io/ma//ma/jekyll/update/2016/07/25/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">https://camconsulting.github.io/ma//ma/jekyll/update/2016/07/25/welcome-to-jekyll.html</guid>
+        <link>https://camconsulting.github.io/ma/jekyll/update/2016/07/25/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">https://camconsulting.github.io/ma/jekyll/update/2016/07/25/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
@@ -40,7 +40,7 @@
     
       <item>
         <title>Renovación de tarjeta de residencia</title>
-        <description>&lt;img src=&quot;images/blog-renovacion-de-residencia.jpg&quot; alt=&quot;&quot; /&gt;
+        <description>&lt;img src=&quot;/ma/images/renova.jpg&quot; alt=&quot;&quot; /&gt;
 &lt;p&gt;
   La residencia temporal es la situación por la que un ciudadano extranjero está autorizado a residir en España de manera no permanente, por un periodo superior a los 3 meses e inferior a 5 años.
 
@@ -77,8 +77,8 @@ Gracias por leer nuestro artículo, recuerda que cada mes en Morales Asencio org
 &lt;/p&gt;
 </description>
         <pubDate>Mon, 25 Jul 2016 08:06:47 +0200</pubDate>
-        <link>https://camconsulting.github.io/ma//ma/noticias/2016/07/25/tarjeta-de-residencia.html</link>
-        <guid isPermaLink="true">https://camconsulting.github.io/ma//ma/noticias/2016/07/25/tarjeta-de-residencia.html</guid>
+        <link>https://camconsulting.github.io/ma/noticias/2016/07/25/tarjeta-de-residencia.html</link>
+        <guid isPermaLink="true">https://camconsulting.github.io/ma/noticias/2016/07/25/tarjeta-de-residencia.html</guid>
         
         
         <category>noticias</category>
