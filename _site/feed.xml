@@ -4,11 +4,56 @@
     <title>Morales Asencio Abogados</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>https://camconsulting.github.io/ma/</link>
-    <atom:link href="https://camconsulting.github.io/ma/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 31 Jul 2016 23:50:18 +0200</pubDate>
-    <lastBuildDate>Sun, 31 Jul 2016 23:50:18 +0200</lastBuildDate>
+    <link>http://camconsulting.github.io/ma/</link>
+    <atom:link href="http://camconsulting.github.io/ma/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 01 Aug 2016 20:58:35 +0200</pubDate>
+    <lastBuildDate>Mon, 01 Aug 2016 20:58:35 +0200</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Declaración de impuestos</title>
+        <description>&lt;p&gt;Se han publicado diversos cambios normativos que regulan el régimen fiscal de los trabajadores desplazados a España o impatriados, estas modificaciones afectarán directamente en tu declaración de impuestos como veremos a continuación independiente de tu nacionalidad o país de origen.&lt;/p&gt;
+
+&lt;p&gt;Se trata de un régimen fiscal especial dirigido a los trabajadores que se desplacen a territorio español y que adquieran la residencia fiscal en España como consecuencia de su desplazamiento. Dichos trabajadores podrán optar por presentar su declaración de impuestos vía el Impuesto sobre la Renta de no Residentes (IRNR), manteniendo su condición de contribuyentes por el Impuesto sobre la Renta de las Personas Físicas (IRPF).&lt;/p&gt;
+
+&lt;p&gt;¿Cuáles son las principales novedades en la declaración de impuestos?&lt;/p&gt;
+
+&lt;p&gt;Los trabajadores desplazados en España podrán presentar su declaración de impuestos por el IRNR durante el período impositivo en que se efectúe el cambio de residencia y durante los cinco períodos impositivos siguientes. A continuación, algunos de los requisitos aplicables para poder optar a este régimen fiscal:&lt;/p&gt;
+
+ 1) No haber sido residente en España durante los 10 ejercicios impositivos anteriores al desplazamiento a territorio español.
+
+2) Que los trabajos se realicen efectivamente en España. Se entiende cumplida esta condición aunque parte de los trabajos se presten en el extranjero, previo cumplimiento de los máximos legales establecidos.
+
+3) Que el desplazamiento a territorio español se produzca como consecuencia de:
+
+&lt;p&gt;Un contrato de trabajo (con excepción de la relación laboral especial de los deportistas profesionales que están excluidos).&lt;/p&gt;
+&lt;p&gt;La adquisición de la condición de administrador de una entidad en cuyo capital no participe, o en caso contrario, cuando la participación en la misma no determine la consideración de entidad vinculada.&lt;/p&gt;
+&lt;p&gt;¿En qué consiste la declaración de impuestos por el IRNR?
+
+ &lt;p&gt;Declaración de impuestos por el IRNR durante el ejercicio de cambio de residencia y los 5 siguientes:&lt;/p&gt;
+
+24% para rendimientos de ≤ 600.000 euros
+45% para &gt; 600.000 euros
+¿Cuáles son los modelos principales en la gestión del régimen de impatriados?
+
+&lt;p&gt;El modelo 149 de régimen especial aplicable a los trabajadores desplazados a territorio español. Comunicación de opción, renuncia o exclusión. Como en un plazo de&lt;/p&gt;
+
+&lt;p&gt;Y el modelo 150 de régimen especial aplicable a los trabajadores desplazados a territorio español.&lt;/p&gt;
+
+&lt;p&gt;Referencias normativas:&lt;/p&gt;
+
+&lt;p&gt;Ley 26/2014, de 27 de noviembre, por la que se modifican la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas, el texto refundido de la Ley del Impuesto sobre la Renta de no Residentes, aprobado por el Real Decreto Legislativo 5/2004, de 5 de marzo, y otras normas tributarias. Ver más.&lt;/p&gt;
+
+&lt;p&gt;Real Decreto 1003/2014, de 5 de diciembre, por el que se modifica el Reglamento del Impuesto sobre la Renta de las Personas Físicas, aprobado por el Real Decreto 439/2007, de 30 de marzo, en materia de pagos a cuenta y deducciones por familia numerosa o personas con discapacidad a cargo. Ver más.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 25 Jul 2016 08:06:47 +0200</pubDate>
+        <link>http://camconsulting.github.io/ma/noticias/2016/07/25/declaracion-renta-2015.html</link>
+        <guid isPermaLink="true">http://camconsulting.github.io/ma/noticias/2016/07/25/declaracion-renta-2015.html</guid>
+        
+        
+        <category>noticias</category>
+        
+      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>
@@ -28,8 +73,8 @@
 
 </description>
         <pubDate>Mon, 25 Jul 2016 08:06:47 +0200</pubDate>
-        <link>https://camconsulting.github.io/ma/jekyll/update/2016/07/25/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">https://camconsulting.github.io/ma/jekyll/update/2016/07/25/welcome-to-jekyll.html</guid>
+        <link>http://camconsulting.github.io/ma/jekyll/update/2016/07/25/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://camconsulting.github.io/ma/jekyll/update/2016/07/25/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
@@ -77,8 +122,49 @@ Gracias por leer nuestro artículo, recuerda que cada mes en Morales Asencio org
 &lt;/p&gt;
 </description>
         <pubDate>Mon, 25 Jul 2016 08:06:47 +0200</pubDate>
-        <link>https://camconsulting.github.io/ma/noticias/2016/07/25/tarjeta-de-residencia.html</link>
-        <guid isPermaLink="true">https://camconsulting.github.io/ma/noticias/2016/07/25/tarjeta-de-residencia.html</guid>
+        <link>http://camconsulting.github.io/ma/noticias/2016/07/25/tarjeta-de-residencia.html</link>
+        <guid isPermaLink="true">http://camconsulting.github.io/ma/noticias/2016/07/25/tarjeta-de-residencia.html</guid>
+        
+        
+        <category>noticias</category>
+        
+      </item>
+    
+      <item>
+        <title>Feria de Abril en Sevilla</title>
+        <description>&lt;img src=&quot;/ma/images/feria-de-Sevilla.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;p&gt;
+&lt;p&gt;
+  Este año como ya es tradición se celebró la Feria de Abril Sevillana, la cual tiene su origen en el año 1846 y comenzó como una feria para comercializar ganado. Hoy en día, es la celebración del inicio de la primavera en Sevilla así como un evento de expresión de cante y baile a la ciudad.
+
+&lt;/p&gt;
+&lt;p&gt;
+  Este año se dio comienzo a la feria el martes 12 de Abril extendiéndose hasta el domingo 17, como todos los años, se inaugura a la media noche con la famosa noche del “pescaíto”, en la que se encienden unas 350.000 bombillas que iluminan la puerta principal y las calles del recinto, que todos los años presenta una portada diferente conmemorando algún monumento de la ciudad.
+&lt;/p&gt;
+
+&lt;p&gt;
+  Un día típico de feria transcurre entre la multitud de puestos ambulantes que ofrecen infinitos manjares típicos de la región y donde los visitantes podrán degustar lo mejor de la gastronomía local. A su vez, puede contemplarse el tradicional paseo de caballos llevados por sus jinetes y acompañados por las típicas Flamencas Sevillanas (ilustramos con una foto cortesía de Stephan Kries).
+&lt;/p&gt;
+
+&lt;p&gt;
+   Entre comer y beber, los amantes del arte taurino pueden disfruta de una corrida de toros en donde se presentan los mejores toreros del momento. Trajes típicos, cánticos populares, colores que anuncian la llegada de la primavera y mucha, muchísima diversión por las calles de Sevilla.
+&lt;/p&gt;
+
+&lt;p&gt;
+  Y si el arte taurino no es lo tuyo puedes pasar la tarde en la “calle del infierno”, en donde encontrarás distintas atracciones tanto para grandes o pequeños, al caer la tarde comienza la fiesta nocturna que durará hasta el amanecer que se recibe con una buena taza de chocolate con churros.  Sin duda, la feria de Sevilla no deja a ninguno indiferente.
+&lt;/p&gt;
+
+&lt;p&gt;
+  Si este año te has perdido de este divertido evento, visita la página oficinal de la feria AQUÍ e infórmate para que el año que viene la puedas disfrutar.
+&lt;/p&gt;
+
+&lt;p&gt;
+  Recuerda que cada mes en Morales Asencio organizamos un evento diferente para ayudarte a resolver dudas sobre inmigración, gestión de visados, gestión empresarial local e internacional. Suscríbete en nuestra web para recibir todas nuestras actualizaciones.
+&lt;/p&gt;
+</description>
+        <pubDate>Mon, 25 Jul 2016 08:06:47 +0200</pubDate>
+        <link>http://camconsulting.github.io/ma/noticias/2016/07/25/feria-de-abril.html</link>
+        <guid isPermaLink="true">http://camconsulting.github.io/ma/noticias/2016/07/25/feria-de-abril.html</guid>
         
         
         <category>noticias</category>

@@ -1,0 +1,47 @@
+
+  <div class="row">
+    <div class="large-6 columns blog-updates">
+      <div class="orbit" role="region" aria-label="Morales Asencio Blog" data-orbit>
+        <ul class="entries orbit-container">
+          {% for post in site.posts limit:3 %}
+          <button class="orbit-previous"><span class="show-for-sr">Previous Slide</span> &#9664;&#xFE0E;</button>
+          <button class="orbit-next"><span class="show-for-sr">Next Slide</span> &#9654;&#xFE0E;</button>
+          <li class="orbit-slide is-active">
+            <a href="{{ post.url }}">
+              <img class="orbit-image" src="{{ post.image }}" />
+              <figcaption class="orbit-caption">{{ post.title }}</figcaption>
+
+            </a>
+          </li>
+
+          {% endfor %}
+        </ul>
+
+        <nav class="orbit-bullets">
+        <button class="is-active" data-slide="0"><span class="show-for-sr">First slide details.</span><span class="show-for-sr">Current Slide</span></button>
+        <button data-slide="1"><span class="show-for-sr">Second slide details.</span></button>
+        <button data-slide="2"><span class="show-for-sr">Third slide details.</span></button>
+        <button data-slide="3"><span class="show-for-sr">Fourth slide details.</span></button>
+        </nav>
+      </div>
+
+    </div>
+      <div class="large-6 columns blog-list">
+        <ul class="entries">
+          <h2>Últimas Entradas</h2>
+          {% for post in site.posts limit:3 %}
+
+          <li>
+            <a href="{{ post.url }}">
+
+              <h3>{{ post.title }}</h3>
+
+            </a>
+          </li>
+
+          {% endfor %}
+        </ul>
+
+      </div>
+
+    </div>

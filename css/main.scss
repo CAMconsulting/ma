@@ -8,10 +8,41 @@
 
 @import 'https://fonts.googleapis.com/css?family=Hind|Montserrat:400,700';
 @import 'https://cdnjs.cloudflare.com/ajax/libs/octicons/3.5.0/octicons.min.css';
+
+
+
+body{
+  max-width: 1440px;
+  margin: 0 auto;
+  h1, a{
+    font-family: 'Montserrat', sans-serif;
+    }
+  h2, p{
+    font-family: 'Hind', sans-serif;
+  }
+}
+.row{
+  margin-top: 5px;
+}
+.blog-list{
+  ul{
+    li{
+      list-style-type: none;
+    }
+  }
+  a{
+    color: black;
+
+  }
+  }
+
+
+
 .front-page{
+
   background-image: url(../images/building.jpg);
  background-size: cover;
- margin: auto;
+ margin: 0 auto;
  padding-left: 0;
  padding-right: 0;
   // height: auto;
@@ -48,7 +79,11 @@ header {
         }
       }
 }
-.headerp {
+
+.page-nav {
+  max-width: 1440px;
+  height: 111px;
+  background-image: url(../images/building.jpg);
   .logop {
     width: 120px;
     height: 60px;
@@ -59,25 +94,35 @@ header {
   .logosqp{
     display: none;
   }
-  nav {
+  .navp {
     float: right;
-    line-height: 4em;
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 700;
-    font-size: 0.8em;
-    letter-spacing: -0.3px;
-    margin-right: 3%;
-    margin-top: 5%;
-    a {
-      text-transform: uppercase;
-      text-decoration: none;
-      text-align: center;
-      padding: 0 1px 0 3px;
-      color: black;
-      &:visited {
+    ul {
+      line-height: 4em;
+      font-family: 'Montserrat', sans-serif;
+      font-weight: 700;
+      font-size: 0.8em;
+      letter-spacing: -0.3px;
+      margin-right: 3%;
+      margin-top: 5%;
+      display: flex;
+      list-style-type: none;
+      padding-right: 5%;
+
+      li {
+
+      }
+      a {
+        text-transform: uppercase;
+        text-decoration: none;
+        text-align: center;
+        padding: 0 0.7em;
         color: white;
-          }
+        &:visited {
+          color: white;
         }
+      }
+    }
+
       }
 }
 
@@ -112,7 +157,12 @@ header {
 
   }
 }
-
+article.post{
+  clear: both;
+}
+.wrapper {
+  padding: 0 5%;
+}
 
 @media screen and (max-width: 426px){
   header{
@@ -152,6 +202,49 @@ header {
         }
       }
       }
+      .page-nav{
+
+        .logop{
+          display: none;
+
+        }
+        .logosqp {
+          display: block;
+          height: 60px;
+          width: 60px;
+          margin: 0 auto;
+          padding-top: 15px;
+           }
+          .navp {
+            font-family: 'Montserrat', sans-serif;
+            font-weight: 700;
+            font-size: 0.7em;
+            letter-spacing: -0.3px;
+            position: fixed;
+            bottom: 0%;
+            left: 0%;
+            background-color: #627f89;
+            width: 100%;
+            padding: 0;
+            height: 30px;
+            text-align: center;
+            ul {
+              li{
+                padding: 0;
+              }
+            }
+            a {
+              text-transform: uppercase;
+              text-decoration: none;
+              text-align: center;
+              padding: 0 0.4em;
+              color: white;
+              &:visited {
+                color: white;
+              }
+            }
+          }
+          }
       .hero-shot {
         padding-top: 30px;
         h2{
